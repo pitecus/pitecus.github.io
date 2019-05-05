@@ -1,0 +1,180 @@
+{
+  "basics": {
+    "name": "Leonardo Luceiro Meirelles",
+    "label": "Programmer",
+    "picture": "",
+    "email": "pitecus@gmail.com",
+    "phone": "Not available right now",
+    "website": "https://pitecus.github.io/",
+    "summary": "Passionate for quality, creativity, and good design (code and UI), problem solving oriented professional with extensive experience in web/server architecture and development, a team player with excellent communication skills. I enjoy working in a dynamic environment which provides opportunities for new technical solutions. My skill set covers Linux, full stack Javascript (MongoDB, ExpressJS, AngularJS, NodeJS), Front-end and back-end architecture and development.",
+    "location": {
+      "address": "",
+      "postalCode": "07470",
+      "city": "Wayne",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "pitecus",
+        "url": "https://github.com/pitecus/"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "JavaScript ES6",
+        "TypeScript",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Markup Languages",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JSON"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "AngujarJS",
+        "Angular",
+        "NodeJS"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Google Inc",
+      "position": "Senior Software Engineer",
+      "website": "https://www.google.com",
+      "startDate": "2015-05",
+      "endDate": "2017-10",
+      "summary": "Architect, design and integrate AngularJS 1.4 components for Cloud SQL inside Google Cloud Platform. Use Google Analytics to improve user experience by evaluating and prioritizing features. Coordinate with Google Site Reliability Engineering, project manager and back-end API team to prioritize bugs, features and release using experiments. Provide support for internal and external users. Create utility tools in Bash shell script, NodeJS and Chrome Extensions for internal usage",
+      "keywords": [
+        "Linux",
+        "Google Cloud Platform (GCP)",
+        "AngularJS 1.4",
+        "AngularJS 1.5",
+        "Chrome Extensions",
+        "Google Analytics"
+      ]
+    },
+    {
+      "company": "The New York Times",
+      "position": "Senior Software Engineer",
+      "website": "https://www.nytimes.com",
+      "startDate": "2013-06",
+      "endDate": "2015-04",
+      "summary": "Created new features, improved system’s performance and developed new applications in Business Intelligence analytics ecosystem. Developed prototypes to streamline data access. Was responsible for tag management and tracking systems for page and modules views, customer behavior, A/B testings, and subscription funnel. Developed in MEAN stack. Enhanced tracking data through systems integration. Created front-end applications for user friendly interaction with REST services. Partner with multiple stakeholders to prioritize features and manage development cycles.",
+      "keywords": [
+        "Linux",
+        "MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)",
+        "Jenkins",
+        "Grunt",
+        "Gulp",
+        "RPM",
+        "Amazon AWS",
+        "Architect proof of concept applications",
+        "OmniGraffle"
+      ]
+    },
+    {
+      "company": "The New York Times",
+      "position": "Web Engineer",
+      "website": "https://www.nytimes.com",
+      "startDate": "2011-10",
+      "endDate": "2013-06",
+      "summary": "System architect for NYTimes-China site: planned the infra-structure, built the servers and successfully transitioned to the implementation team. Developed SEO (search engine optimization) features using ModEST publishing framework. Worked on Datacenter Move (DCI) project, providing solutions for server configurations migration between iPlanet and Apache. Provided support and development for NY Times web site. Responsible for performance, stability and improvement of hundreds of servers in Production in two Datacenters (East and West) with millions of daily page views.",
+      "keywords": [
+        "Apache",
+        "Linux",
+        "PHP",
+        "Javascript (jQuery, NodeJS)",
+        "Hudson",
+        "CloudSource",
+        "Nimbul",
+        "Bash shell script"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pontifícia Universidade Católica (PUCRS)",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "endDate": "2014",
+      "location": {
+        "address": "Av. Ipiranga, 6681",
+        "postalCode": "",
+        "city": "Porto Alegre",
+        "countryCode": "BR",
+        "region": "Rio Grande do Sul",
+        "phone": "+55 51 3320-3500"
+      }
+    },
+    {
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia",
+      "area": "Computer Networkds",
+      "studyType": "Specialization",
+      "endDate": "1998",
+      "location": {
+        "address": "Rua Ramiro Barcelos, 2777",
+        "postalCode": "",
+        "city": "Porto Alegre",
+        "countryCode": "BR",
+        "region": "Rio Grande do Sul",
+        "phone": "++55 51 3308-5110"
+      }
+    },
+    {
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia",
+      "area": "Data Processing",
+      "studyType": "High School",
+      "endDate": "1996",
+      "location": {
+        "address": "Rua Ramiro Barcelos, 2777",
+        "postalCode": "",
+        "city": "Porto Alegre",
+        "countryCode": "BR",
+        "region": "Rio Grande do Sul",
+        "phone": "++55 51 3308-5110"
+      }
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": 5
+    },
+    {
+      "language": "Portuguese",
+      "fluency": 5
+    },
+    {
+      "language": "Spanish",
+      "fluency": 2
+    },
+    {
+      "language": "French",
+      "fluency": 1
+    }
+  ],
+  "interests": [
+    {
+      "name": "Running",
+      "keywords": [
+        "Half-Marathon",
+        "Marathon"
+      ]
+    }
+  ]
+}
