@@ -1,1 +1,0 @@
-{"version":3,"sources":["./node_modules/tailwindcss/base.css","./node_modules/tailwindcss/utilities.css"],"names":[],"mappings":";AAAA;;AAAA,67DCAA","file":"styles.54c7f444b0df35cfa837.css","sourcesContent":["@tailwind base;\n","@tailwind utilities;\n"],"sourceRoot":"webpack:///"}
