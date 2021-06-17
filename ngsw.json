@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1623960198586,
+  "timestamp": 1623965313258,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,12 +12,12 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.dcc6c75810ebccdcd0a2.js",
+        "/main.7e6931dd3154b62040e1.js",
         "/manifest.webmanifest",
         "/polyfills.591c6c39c9ca5ec8bb4b.js",
         "/runtime.11e0d78c1a0b680fae5c.js",
-        "/styles.841b71f85ba83c1c1aed.css",
-        "/vendor.46713da1b915ce5601ce.js"
+        "/styles.cfbd6432559a848f8991.css",
+        "/vendor.75f754ccabd29fd19e39.js"
       ],
       "patterns": []
     },
@@ -66,12 +66,12 @@
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.dcc6c75810ebccdcd0a2.js": "62dded3325dea20d4272f595e8298e50027a302b",
+    "/main.7e6931dd3154b62040e1.js": "5e18f0acd6c0bd12299b52cb58dd4bd2d8e8c451",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.591c6c39c9ca5ec8bb4b.js": "b1fff2736c0db7da1c07a2c19a0f13309a12b0d6",
     "/runtime.11e0d78c1a0b680fae5c.js": "17a6b5b7395bc2773cb34d9d3a29d16817b3c033",
-    "/styles.841b71f85ba83c1c1aed.css": "371099e887eb4a4010eafdccc9d2ff7bd01f0b89",
-    "/vendor.46713da1b915ce5601ce.js": "5b114ecaea03b5a085ca307be19ef2623ab0dcbc"
+    "/styles.cfbd6432559a848f8991.css": "4a6b89d5d2ea59d5ddcd012af5d30034f755159f",
+    "/vendor.75f754ccabd29fd19e39.js": "ddf39722ab2ece1c5ad26dcbedaa0912afc3509c"
   },
   "navigationUrls": [
     {
