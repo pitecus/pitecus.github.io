@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624050488259,
+  "timestamp": 1624051139168,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.eb7c2168be0f9d3b14b9.js",
+        "/main.c5b778356c8dbd64e4ec.js",
         "/manifest.webmanifest",
         "/polyfills.591c6c39c9ca5ec8bb4b.js",
         "/runtime.11e0d78c1a0b680fae5c.js",
@@ -59,14 +59,14 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/leo-meirelles.jpeg": "5eaae20c17ed75fc734c2eb2a881a7f87d4e0eb6",
-    "/assets/leo-meirelles.json": "ded9fb4d75d1ec3b12b85448b77d6accd855df50",
+    "/assets/leo-meirelles.json": "5cffcbff9c23d3e8b90627bb86d060bafdd49d2b",
     "/assets/logo-adp.jpeg": "dcc27b0ed8da232161cefbcdafabe9df7e45c17c",
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.eb7c2168be0f9d3b14b9.js": "37850f68953c457a31f513bf0a5ea1faf49799a3",
+    "/main.c5b778356c8dbd64e4ec.js": "7ddce6b36347c640fe9f459f5ff6434b5d1cd7ac",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.591c6c39c9ca5ec8bb4b.js": "b1fff2736c0db7da1c07a2c19a0f13309a12b0d6",
     "/runtime.11e0d78c1a0b680fae5c.js": "17a6b5b7395bc2773cb34d9d3a29d16817b3c033",
