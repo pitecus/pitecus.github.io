@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624040518673,
+  "timestamp": 1624044760275,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.2ec905274b7046161b10.js",
+        "/main.4f3127a4e5589bc8d4dd.js",
         "/manifest.webmanifest",
         "/polyfills.591c6c39c9ca5ec8bb4b.js",
         "/runtime.11e0d78c1a0b680fae5c.js",
-        "/styles.30287a50dc83b44a8b8e.css",
+        "/styles.cf9f9dc793a7463a5a02.css",
         "/vendor.d45f47589757ffb2c4be.js"
       ],
       "patterns": []
@@ -59,18 +59,18 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/leo-meirelles.jpeg": "5eaae20c17ed75fc734c2eb2a881a7f87d4e0eb6",
-    "/assets/leo-meirelles.json": "988ba0eaa51eca1a3ce7459908dbb15d61f94646",
+    "/assets/leo-meirelles.json": "3be8d277c33f1423f93348408698564616febb49",
     "/assets/logo-adp.jpeg": "dcc27b0ed8da232161cefbcdafabe9df7e45c17c",
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.2ec905274b7046161b10.js": "9611186d32ae9dd1b47c55d61648ec7541c301fd",
+    "/main.4f3127a4e5589bc8d4dd.js": "d1b02ccc2d822dde96984127f5bfa16020de296d",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.591c6c39c9ca5ec8bb4b.js": "b1fff2736c0db7da1c07a2c19a0f13309a12b0d6",
     "/runtime.11e0d78c1a0b680fae5c.js": "17a6b5b7395bc2773cb34d9d3a29d16817b3c033",
-    "/styles.30287a50dc83b44a8b8e.css": "024345fa8476e79af1f0609b0aa4178c1cdf975b",
+    "/styles.cf9f9dc793a7463a5a02.css": "46d3d7600e38a9fe0bd7c9e88bd9a716c886191c",
     "/vendor.d45f47589757ffb2c4be.js": "cf8f3be3f388176f50226ae8ccffa0243548eddd"
   },
   "navigationUrls": [
