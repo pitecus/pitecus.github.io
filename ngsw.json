@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624290339419,
+  "timestamp": 1624303203510,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,12 +12,12 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.2fd38f5cc56583c40055.js",
+        "/main.678fd503500a53091528.js",
         "/manifest.webmanifest",
         "/polyfills.591c6c39c9ca5ec8bb4b.js",
         "/runtime.11e0d78c1a0b680fae5c.js",
-        "/styles.94925dfe671df72f7f49.css",
-        "/vendor.52dd97677f05bb81f3c0.js"
+        "/styles.7149b1f008da2b7e6db2.css",
+        "/vendor.ed8cab68e84c3a87601d.js"
       ],
       "patterns": []
     },
@@ -30,6 +30,7 @@
       },
       "urls": [
         "/assets/card.jpeg",
+        "/assets/changelog.json",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -52,6 +53,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d9a95b2826a4e6aac49876cf6b8b56d2df975b52",
+    "/assets/changelog.json": "8166d791ce98e3751be85a356619e9a2b70aefdb",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -68,12 +70,12 @@
     "/assets/resume.json": "5cffcbff9c23d3e8b90627bb86d060bafdd49d2b",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.2fd38f5cc56583c40055.js": "d4601039bf55223de86f990efd2fdc84b8081d3b",
+    "/main.678fd503500a53091528.js": "814a3df854dafa9c27b92330fff6ef7a09097b42",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.591c6c39c9ca5ec8bb4b.js": "b1fff2736c0db7da1c07a2c19a0f13309a12b0d6",
     "/runtime.11e0d78c1a0b680fae5c.js": "17a6b5b7395bc2773cb34d9d3a29d16817b3c033",
-    "/styles.94925dfe671df72f7f49.css": "a66072391a30385f8422552c633b25a6714a3fba",
-    "/vendor.52dd97677f05bb81f3c0.js": "03f8bbdd0956ac964c63f608dca3363684b4c021"
+    "/styles.7149b1f008da2b7e6db2.css": "dabb88d8f46064d902e72ed9010e0ec20004b4eb",
+    "/vendor.ed8cab68e84c3a87601d.js": "b4641ce9e16ce4f913499f524b528c58d2ce4a50"
   },
   "navigationUrls": [
     {
