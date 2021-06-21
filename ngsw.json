@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624071742810,
+  "timestamp": 1624290339419,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,12 +12,12 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.c5b778356c8dbd64e4ec.js",
+        "/main.2fd38f5cc56583c40055.js",
         "/manifest.webmanifest",
         "/polyfills.591c6c39c9ca5ec8bb4b.js",
         "/runtime.11e0d78c1a0b680fae5c.js",
         "/styles.94925dfe671df72f7f49.css",
-        "/vendor.e73fd416456f2179a18a.js"
+        "/vendor.52dd97677f05bb81f3c0.js"
       ],
       "patterns": []
     },
@@ -39,11 +39,11 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/leo-meirelles.jpeg",
-        "/assets/leo-meirelles.json",
         "/assets/logo-adp.jpeg",
         "/assets/logo-google.png",
         "/assets/logo-nyt.png",
         "/assets/logo-pucrs.png",
+        "/assets/resume.json",
         "/assets/schema.json"
       ],
       "patterns": []
@@ -61,19 +61,19 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/leo-meirelles.jpeg": "5eaae20c17ed75fc734c2eb2a881a7f87d4e0eb6",
-    "/assets/leo-meirelles.json": "5cffcbff9c23d3e8b90627bb86d060bafdd49d2b",
     "/assets/logo-adp.jpeg": "dcc27b0ed8da232161cefbcdafabe9df7e45c17c",
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
+    "/assets/resume.json": "5cffcbff9c23d3e8b90627bb86d060bafdd49d2b",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.c5b778356c8dbd64e4ec.js": "7ddce6b36347c640fe9f459f5ff6434b5d1cd7ac",
+    "/main.2fd38f5cc56583c40055.js": "d4601039bf55223de86f990efd2fdc84b8081d3b",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.591c6c39c9ca5ec8bb4b.js": "b1fff2736c0db7da1c07a2c19a0f13309a12b0d6",
     "/runtime.11e0d78c1a0b680fae5c.js": "17a6b5b7395bc2773cb34d9d3a29d16817b3c033",
     "/styles.94925dfe671df72f7f49.css": "a66072391a30385f8422552c633b25a6714a3fba",
-    "/vendor.e73fd416456f2179a18a.js": "9076c1e31f2fdf23af6d4a98b64f6f9736c54c97"
+    "/vendor.52dd97677f05bb81f3c0.js": "03f8bbdd0956ac964c63f608dca3363684b4c021"
   },
   "navigationUrls": [
     {
