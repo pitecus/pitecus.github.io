@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624370663087,
+  "timestamp": 1624374120123,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -53,7 +53,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d9a95b2826a4e6aac49876cf6b8b56d2df975b52",
-    "/assets/changelog.json": "b22150beb93c3ee52bcf1a5f754fb7865495de36",
+    "/assets/changelog.json": "e15cccb04cfd8b456a9dab0542d99125ea68a902",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -67,7 +67,7 @@
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
-    "/assets/resume.json": "5cffcbff9c23d3e8b90627bb86d060bafdd49d2b",
+    "/assets/resume.json": "5afc503ba1dd226b301ea316153f9c377af16d0f",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/main.38216d953f465d9bdd80.js": "621da79fc40c1829bc59c5e3a0bd0203b4cbaae2",
