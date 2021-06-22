@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624364577026,
+  "timestamp": 1624365195033,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -53,7 +53,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d9a95b2826a4e6aac49876cf6b8b56d2df975b52",
-    "/assets/changelog.json": "7928914ae89ad68da70764007cb95f407d0b13b9",
+    "/assets/changelog.json": "012092886ab3777bcc32d482fe9e96ec497d62d9",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
