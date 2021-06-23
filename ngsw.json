@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624385358854,
+  "timestamp": 1624460084070,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.38216d953f465d9bdd80.js",
+        "/main.555574bf22d26f28e7a5.js",
         "/manifest.webmanifest",
         "/polyfills.591c6c39c9ca5ec8bb4b.js",
         "/runtime.11e0d78c1a0b680fae5c.js",
-        "/styles.941c76cef0df9ff01106.css",
+        "/styles.b1ad32f3dc667bd07d8c.css",
         "/vendor.ed8cab68e84c3a87601d.js"
       ],
       "patterns": []
@@ -44,6 +44,7 @@
         "/assets/logo-google.png",
         "/assets/logo-nyt.png",
         "/assets/logo-pucrs.png",
+        "/assets/release.json",
         "/assets/resume.json",
         "/assets/schema.json"
       ],
@@ -53,7 +54,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d9a95b2826a4e6aac49876cf6b8b56d2df975b52",
-    "/assets/changelog.json": "e08480fe12ddb6e6007c6cebb571b3aeb1b0f561",
+    "/assets/changelog.json": "627e4904d029ce9244ffcf8df159726091d8665b",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -67,14 +68,15 @@
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
-    "/assets/resume.json": "5afc503ba1dd226b301ea316153f9c377af16d0f",
+    "/assets/release.json": "343dd9bc6b5e33195f969e1bd1a6809f3310d25f",
+    "/assets/resume.json": "a26afbb0d7b8fc861223d8e8463c3ec480b7fd97",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.38216d953f465d9bdd80.js": "621da79fc40c1829bc59c5e3a0bd0203b4cbaae2",
+    "/main.555574bf22d26f28e7a5.js": "4cf9b1cdaf99b3c335716cec171af9a8d805d2fa",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.591c6c39c9ca5ec8bb4b.js": "b1fff2736c0db7da1c07a2c19a0f13309a12b0d6",
     "/runtime.11e0d78c1a0b680fae5c.js": "17a6b5b7395bc2773cb34d9d3a29d16817b3c033",
-    "/styles.941c76cef0df9ff01106.css": "ce2feb6056ec0036041d6297e8fb501c45441268",
+    "/styles.b1ad32f3dc667bd07d8c.css": "6f19f128b76ac0c8d25f5fc0fb2288fb6eb88aba",
     "/vendor.ed8cab68e84c3a87601d.js": "b4641ce9e16ce4f913499f524b528c58d2ce4a50"
   },
   "navigationUrls": [
