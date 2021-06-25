@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624572071312,
+  "timestamp": 1624643956190,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -46,7 +46,11 @@
         "/assets/logo-pucrs.png",
         "/assets/release.json",
         "/assets/resume.json",
-        "/assets/schema.json"
+        "/assets/schema.json",
+        "/assets/touch-icon/ipad-retina.png",
+        "/assets/touch-icon/ipad.png",
+        "/assets/touch-icon/iphone-retina.png",
+        "/assets/touch-icon/iphone.png"
       ],
       "patterns": []
     }
@@ -54,7 +58,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d563e798bf97ac7be7b94beecc95ec71fe8ec454",
-    "/assets/changelog.json": "31b990b7fa825cd527d02360051430322533bcc6",
+    "/assets/changelog.json": "a8efefcbd99227623a207864ef83ea02cf94cd21",
     "/assets/icons/icon-128x128.png": "c757dea8ad0a96e33dee56d400081d17dc4c6f8a",
     "/assets/icons/icon-144x144.png": "e329423a7a45712410bd5da7176c721cfe4d7f7c",
     "/assets/icons/icon-152x152.png": "945e5be4b3b1bb7914fe4061092020f4fcac7bc1",
@@ -68,9 +72,13 @@
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
-    "/assets/release.json": "47e8d9d3c678118071cd1cd3585dd201951195b4",
+    "/assets/release.json": "c942d519a1ac617f92b12c7ca0fd1d60ed3e2334",
     "/assets/resume.json": "a26afbb0d7b8fc861223d8e8463c3ec480b7fd97",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
+    "/assets/touch-icon/ipad-retina.png": "1ba7c9031bef591764d3df8437211edf8836f6d3",
+    "/assets/touch-icon/ipad.png": "6eb512c4e9ccd56cb075b2cefdf181c760d02687",
+    "/assets/touch-icon/iphone-retina.png": "8f96db3abd950d2228a419c908092b956b9b040d",
+    "/assets/touch-icon/iphone.png": "a3b1c4428afc537d0205dc85042dfe9c93cb1ad7",
     "/favicon.ico": "bc6f5abfb8264e6cb5a6e5718612a1a11dd769de",
     "/main.fa0e170e4e3551e17894.js": "f649fc18f4e20adb5eaf249f81487a72029eda5b",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
