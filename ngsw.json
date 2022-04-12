@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1649776688617,
+  "timestamp": 1649786470698,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,12 +12,12 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.e1920ded47e4d869c402.js",
+        "/main.ae951fb4d66a6c44.js",
         "/manifest.webmanifest",
-        "/polyfills.141831dd964c7c1e073d.js",
-        "/runtime.11e0d78c1a0b680fae5c.js",
-        "/styles.5d3d8f79ea5df5c23049.css",
-        "/vendor.efd59fdff39601ccd99f.js"
+        "/polyfills.d5288f2ff9a5b960.js",
+        "/runtime.86ad9f594224976e.js",
+        "/styles.7ae4be6d82e5f61a.css",
+        "/vendor.fbdead9dbc3c597d.js"
       ],
       "patterns": []
     },
@@ -58,7 +58,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d563e798bf97ac7be7b94beecc95ec71fe8ec454",
-    "/assets/changelog.json": "25217aa6fb71da8489eecf49196f6a3898327b06",
+    "/assets/changelog.json": "bca148b3026dacd1bd8ce40334d9dff4929f89e2",
     "/assets/icons/icon-128x128.png": "c757dea8ad0a96e33dee56d400081d17dc4c6f8a",
     "/assets/icons/icon-144x144.png": "e329423a7a45712410bd5da7176c721cfe4d7f7c",
     "/assets/icons/icon-152x152.png": "945e5be4b3b1bb7914fe4061092020f4fcac7bc1",
@@ -72,7 +72,7 @@
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
-    "/assets/release.json": "7cb03a4bfd91fc26e3556f3fb0bab00754c0ad60",
+    "/assets/release.json": "7e8908545cf9642581242a926654676fbf483f28",
     "/assets/resume.json": "2d3ceaa044bebb3f2a747bf937a8594996eb527a",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/assets/touch-icon/ipad-retina.png": "1ba7c9031bef591764d3df8437211edf8836f6d3",
@@ -80,12 +80,12 @@
     "/assets/touch-icon/iphone-retina.png": "8f96db3abd950d2228a419c908092b956b9b040d",
     "/assets/touch-icon/iphone.png": "a3b1c4428afc537d0205dc85042dfe9c93cb1ad7",
     "/favicon.ico": "bc6f5abfb8264e6cb5a6e5718612a1a11dd769de",
-    "/main.e1920ded47e4d869c402.js": "2f59fecd56dbf3ab2aba0cedf45afb22b157adb8",
+    "/main.ae951fb4d66a6c44.js": "f6fbf0fb33f8403fc784a0935a31a3ef17079e4f",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
-    "/polyfills.141831dd964c7c1e073d.js": "a168ade31d31251dafbe8b655c2cdb1f0ee65778",
-    "/runtime.11e0d78c1a0b680fae5c.js": "17a6b5b7395bc2773cb34d9d3a29d16817b3c033",
-    "/styles.5d3d8f79ea5df5c23049.css": "395aab8cf42fdd7491fa099a2adc96990af0ee85",
-    "/vendor.efd59fdff39601ccd99f.js": "204eaa56f66384feab4bc722af7c0688cbd78a7c"
+    "/polyfills.d5288f2ff9a5b960.js": "03faca1372c1028c95df4cbf41b120e2a2c71a49",
+    "/runtime.86ad9f594224976e.js": "05888442146ba9627d9f7f585f7e18965bbd663a",
+    "/styles.7ae4be6d82e5f61a.css": "3fe63867becd03fdbe7b809ef3c0e968dab96cc6",
+    "/vendor.fbdead9dbc3c597d.js": "608d645495a6690cdb9d00c5843e21a3ca5eb802"
   },
   "navigationUrls": [
     {
