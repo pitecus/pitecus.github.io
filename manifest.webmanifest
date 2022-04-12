@@ -1,5 +1,5 @@
 {
-  "background_color": "#F3F4F6",
+  "background_color": "#fafafa",
   "display": "standalone",
   "icons": [
     {
@@ -51,9 +51,9 @@
       "type": "image/png"
     }
   ],
-  "name": "leonardo Meirelles",
-  "scope": ".",
-  "short_name": "Leo Meirelles",
-  "start_url": ".",
-  "theme_color": "#312E81"
+  "name": "resume",
+  "scope": "./",
+  "short_name": "resume",
+  "start_url": "./",
+  "theme_color": "#1976d2"
 }
