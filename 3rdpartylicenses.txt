@@ -45,9 +45,6 @@ THE SOFTWARE.
 encode-utf8
 MIT
 
-logrocket
-MIT
-
 qrcode
 MIT
 The MIT License (MIT)
