@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1651029999145,
+  "timestamp": 1651077617102,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.bfd3c70178075f4d.js",
+        "/main.ac391d5e8a05cb94.js",
         "/manifest.webmanifest",
         "/polyfills.8253f89f602708c7.js",
         "/runtime.86ad9f594224976e.js",
-        "/styles.f66bea562589f689.css",
+        "/styles.6ab44e9027564acf.css",
         "/vendor.4ed0ab8996f19659.js"
       ],
       "patterns": []
@@ -58,7 +58,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d563e798bf97ac7be7b94beecc95ec71fe8ec454",
-    "/assets/changelog.json": "c37935939830c12c60d67e580f22e5049545875e",
+    "/assets/changelog.json": "a52e6fc4a1b9eb9f0a2e0c62fc285f2a5fa2719c",
     "/assets/icons/icon-128x128.png": "c757dea8ad0a96e33dee56d400081d17dc4c6f8a",
     "/assets/icons/icon-144x144.png": "e329423a7a45712410bd5da7176c721cfe4d7f7c",
     "/assets/icons/icon-152x152.png": "945e5be4b3b1bb7914fe4061092020f4fcac7bc1",
@@ -72,7 +72,7 @@
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
-    "/assets/release.json": "ab48551c59501bf1e128c43a60704ae9b2e5843e",
+    "/assets/release.json": "7f926036e8e867fb7b7a0d659caa86a7a39e22a1",
     "/assets/resume.json": "3837069146a4611a6ab95736e938a9ef82dcd996",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/assets/touch-icon/ipad-retina.png": "1ba7c9031bef591764d3df8437211edf8836f6d3",
@@ -80,11 +80,11 @@
     "/assets/touch-icon/iphone-retina.png": "8f96db3abd950d2228a419c908092b956b9b040d",
     "/assets/touch-icon/iphone.png": "a3b1c4428afc537d0205dc85042dfe9c93cb1ad7",
     "/favicon.ico": "bc6f5abfb8264e6cb5a6e5718612a1a11dd769de",
-    "/main.bfd3c70178075f4d.js": "e76bef3bbce3b1d2e0846a06a785a0ee6505f9f3",
+    "/main.ac391d5e8a05cb94.js": "e63031cc1419beff78bb980b84aecbe9e5248bb6",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.8253f89f602708c7.js": "5fa81b5301ca10d5f3505cc8a514b1d4714372b4",
     "/runtime.86ad9f594224976e.js": "05888442146ba9627d9f7f585f7e18965bbd663a",
-    "/styles.f66bea562589f689.css": "47a17719073ab3eae6f613a826dcc86fe8297841",
+    "/styles.6ab44e9027564acf.css": "4fae8003f12f02d4a6077742ee66667dc8988715",
     "/vendor.4ed0ab8996f19659.js": "e8a142409fae40c89de4725288de234dee7c5d0a"
   },
   "navigationUrls": [
