@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1650579282125,
+  "timestamp": 1651018755243,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.f349bdd8be8915a7.js",
+        "/main.d7a977b76d00a0ad.js",
         "/manifest.webmanifest",
         "/polyfills.8253f89f602708c7.js",
         "/runtime.86ad9f594224976e.js",
-        "/styles.959cec2b88796d0f.css",
+        "/styles.1e95e3511dab71d1.css",
         "/vendor.4ed0ab8996f19659.js"
       ],
       "patterns": []
@@ -58,7 +58,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d563e798bf97ac7be7b94beecc95ec71fe8ec454",
-    "/assets/changelog.json": "70fd28c5fe97bf5ec1e36a3c3d37680298895123",
+    "/assets/changelog.json": "cf15fee3f7d57095c80729eb10e4ee65adfe7c03",
     "/assets/icons/icon-128x128.png": "c757dea8ad0a96e33dee56d400081d17dc4c6f8a",
     "/assets/icons/icon-144x144.png": "e329423a7a45712410bd5da7176c721cfe4d7f7c",
     "/assets/icons/icon-152x152.png": "945e5be4b3b1bb7914fe4061092020f4fcac7bc1",
@@ -68,11 +68,11 @@
     "/assets/icons/icon-72x72.png": "5efed1ec5e9ece05d3f78bfdeb3e85b935751c0d",
     "/assets/icons/icon-96x96.png": "594068f07ea7017d81015cf202aef222e05ee293",
     "/assets/leo-meirelles.jpeg": "175e5b42fc95da6d05ec70010018fa2860841b8e",
-    "/assets/logo-adp.jpeg": "dcc27b0ed8da232161cefbcdafabe9df7e45c17c",
+    "/assets/logo-adp.jpeg": "ec621b1375f8429dc7ee26bfc3a9144ddf8cadcb",
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
-    "/assets/release.json": "b5a039613c7bf67e897c9ead810616c3532ffc7a",
+    "/assets/release.json": "5a68288087207a1a6d8e382626d47289355b7516",
     "/assets/resume.json": "3837069146a4611a6ab95736e938a9ef82dcd996",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/assets/touch-icon/ipad-retina.png": "1ba7c9031bef591764d3df8437211edf8836f6d3",
@@ -80,11 +80,11 @@
     "/assets/touch-icon/iphone-retina.png": "8f96db3abd950d2228a419c908092b956b9b040d",
     "/assets/touch-icon/iphone.png": "a3b1c4428afc537d0205dc85042dfe9c93cb1ad7",
     "/favicon.ico": "bc6f5abfb8264e6cb5a6e5718612a1a11dd769de",
-    "/main.f349bdd8be8915a7.js": "28aad30584274a64e010c79ee5c61a715342cd67",
+    "/main.d7a977b76d00a0ad.js": "3872849ffe85edfdee2b326123936e70d02d8f58",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.8253f89f602708c7.js": "5fa81b5301ca10d5f3505cc8a514b1d4714372b4",
     "/runtime.86ad9f594224976e.js": "05888442146ba9627d9f7f585f7e18965bbd663a",
-    "/styles.959cec2b88796d0f.css": "ac545d26acd657ec443b76b8b6701346f978da99",
+    "/styles.1e95e3511dab71d1.css": "52d637fc8b6316d8ab080c3337a3755667a168b4",
     "/vendor.4ed0ab8996f19659.js": "e8a142409fae40c89de4725288de234dee7c5d0a"
   },
   "navigationUrls": [
