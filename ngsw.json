@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1651242073995,
+  "timestamp": 1659974195055,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,12 +12,12 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.944cc5ce5617f33e.js",
+        "/main.973b71db240c3309.js",
         "/manifest.webmanifest",
-        "/polyfills.8253f89f602708c7.js",
+        "/polyfills.7c82b8c5863904cd.js",
         "/runtime.86ad9f594224976e.js",
-        "/styles.1d76916683cf996c.css",
-        "/vendor.4ed0ab8996f19659.js"
+        "/styles.faeb63c99369b0f4.css",
+        "/vendor.e17fb2a4d92e483d.js"
       ],
       "patterns": []
     },
@@ -58,7 +58,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d563e798bf97ac7be7b94beecc95ec71fe8ec454",
-    "/assets/changelog.json": "4195f1e97286eda17416e07ed3b97df871e59211",
+    "/assets/changelog.json": "cf86095fbe8a42c7b6804a727163e35b24c32094",
     "/assets/icons/icon-128x128.png": "c757dea8ad0a96e33dee56d400081d17dc4c6f8a",
     "/assets/icons/icon-144x144.png": "e329423a7a45712410bd5da7176c721cfe4d7f7c",
     "/assets/icons/icon-152x152.png": "945e5be4b3b1bb7914fe4061092020f4fcac7bc1",
@@ -72,7 +72,7 @@
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
-    "/assets/release.json": "2368d772413728c2bbe7c1ca5f6d2ddc9849b8d9",
+    "/assets/release.json": "b9f4f51a8d721f95342d284013b292dc4bb5ccde",
     "/assets/resume.json": "748e83b242e93d4bfbc8862e3a44a1935d32f3c3",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/assets/touch-icon/ipad-retina.png": "1ba7c9031bef591764d3df8437211edf8836f6d3",
@@ -80,12 +80,12 @@
     "/assets/touch-icon/iphone-retina.png": "8f96db3abd950d2228a419c908092b956b9b040d",
     "/assets/touch-icon/iphone.png": "a3b1c4428afc537d0205dc85042dfe9c93cb1ad7",
     "/favicon.ico": "bc6f5abfb8264e6cb5a6e5718612a1a11dd769de",
-    "/main.944cc5ce5617f33e.js": "64a5f6b7eaec8f466eb729444cbfac36d51c21b5",
+    "/main.973b71db240c3309.js": "6dc2f8352bbb6c08acedddc9ed9a4c5c179b6a88",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
-    "/polyfills.8253f89f602708c7.js": "5fa81b5301ca10d5f3505cc8a514b1d4714372b4",
+    "/polyfills.7c82b8c5863904cd.js": "53ece569400e36c5214dfeb471911a95c0bf7217",
     "/runtime.86ad9f594224976e.js": "05888442146ba9627d9f7f585f7e18965bbd663a",
-    "/styles.1d76916683cf996c.css": "cf9d578e853e850d08ea7dbdd06c669ce7f2e06a",
-    "/vendor.4ed0ab8996f19659.js": "e8a142409fae40c89de4725288de234dee7c5d0a"
+    "/styles.faeb63c99369b0f4.css": "a1cf8f8dceceae3bdf1722cc29701e5d6da0ccf6",
+    "/vendor.e17fb2a4d92e483d.js": "688d9d9f873cd0f5232dc28e77c1db9b1975afa8"
   },
   "navigationUrls": [
     {
