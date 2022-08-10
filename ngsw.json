@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660056431470,
+  "timestamp": 1660095056970,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -58,7 +58,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "d563e798bf97ac7be7b94beecc95ec71fe8ec454",
-    "/assets/changelog.json": "caa9965bfd4dbfb4ca7fee431b70eccf961346ea",
+    "/assets/changelog.json": "1ec4bc285c1f5b338f80b002e8889026210b60ab",
     "/assets/icons/icon-128x128.png": "c757dea8ad0a96e33dee56d400081d17dc4c6f8a",
     "/assets/icons/icon-144x144.png": "e329423a7a45712410bd5da7176c721cfe4d7f7c",
     "/assets/icons/icon-152x152.png": "945e5be4b3b1bb7914fe4061092020f4fcac7bc1",
@@ -72,8 +72,8 @@
     "/assets/logo-google.png": "df75c32cf277db705eb6e847f934f7dec88cdfb9",
     "/assets/logo-nyt.png": "5173c12b54f39452531ee0d2be5bc928738d432d",
     "/assets/logo-pucrs.png": "4575df34df5cb7481686b7cd1ee401a0018350eb",
-    "/assets/release.json": "8df42de11329c44a8176628564ff7100b5b358ed",
-    "/assets/resume.json": "d86196d1b3e6b8a547b688e4f585014593729e34",
+    "/assets/release.json": "c12e7bb7c4977de693f13b85a08215be3c21084e",
+    "/assets/resume.json": "31fabe1237a7bb4fa8f613d44ef2bb76d1acc248",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/assets/touch-icon/ipad-retina.png": "1ba7c9031bef591764d3df8437211edf8836f6d3",
     "/assets/touch-icon/ipad.png": "6eb512c4e9ccd56cb075b2cefdf181c760d02687",
