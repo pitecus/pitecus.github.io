@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660155243935,
+  "timestamp": 1660254397224,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/favicon.ico",
         "/main.dc380ee79804567b.js",
         "/manifest.webmanifest",
-        "/polyfills.7c82b8c5863904cd.js",
+        "/polyfills.8eb524bf73bcbd3f.js",
         "/runtime.01e9262f916b8262.js",
         "/styles.cda7dd2a9589e47e.css",
         "/vendor.d521887079cd1918.js"
@@ -58,7 +58,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/card.jpeg": "a44911282bf65b881131a1a5306b1986356c6f59",
-    "/assets/changelog.json": "4168775958643e982a2529b62e952287e7c371fe",
+    "/assets/changelog.json": "206d9176cb0e71a24001d9c01197f7442c9ecb2b",
     "/assets/icons/icon-128x128.png": "c757dea8ad0a96e33dee56d400081d17dc4c6f8a",
     "/assets/icons/icon-144x144.png": "e329423a7a45712410bd5da7176c721cfe4d7f7c",
     "/assets/icons/icon-152x152.png": "945e5be4b3b1bb7914fe4061092020f4fcac7bc1",
@@ -72,7 +72,7 @@
     "/assets/logo-google.webp": "ab0e53b7ec5f1683b6d6673941dfea0aa6e84f26",
     "/assets/logo-nyt.webp": "4d03603dce1eee61c4372e1bda5009ef5181c815",
     "/assets/logo-pucrs.webp": "4ee43ab1f2ee3a0572b9bdabb3b45a8b937a747a",
-    "/assets/release.json": "bda83a5546a7e45a3a91ad87e99f8da646d19596",
+    "/assets/release.json": "52ebfabf5ee3e31fc3c98a2e797c15e091ec4a55",
     "/assets/resume.json": "af3b19fc5125bc961006a6d591d0900191032f09",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/assets/touch-icon/ipad-retina.png": "1ba7c9031bef591764d3df8437211edf8836f6d3",
@@ -82,7 +82,7 @@
     "/favicon.ico": "bc6f5abfb8264e6cb5a6e5718612a1a11dd769de",
     "/main.dc380ee79804567b.js": "67a75be6a8662297b3524020c486f7503327dff4",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
-    "/polyfills.7c82b8c5863904cd.js": "53ece569400e36c5214dfeb471911a95c0bf7217",
+    "/polyfills.8eb524bf73bcbd3f.js": "a6cc6b4afed72c059425083ba9476e50bc181dab",
     "/runtime.01e9262f916b8262.js": "a7cae56a99ffd26489a4f11a23949940af84947e",
     "/styles.cda7dd2a9589e47e.css": "80d7be7e317a8c38d0a1f1abe05f50a280b00dfb",
     "/vendor.d521887079cd1918.js": "d50bb66d57d33fa856daa3aec09ed806c0f49c80"
